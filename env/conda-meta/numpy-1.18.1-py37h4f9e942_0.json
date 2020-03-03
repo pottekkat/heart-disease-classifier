@@ -1,0 +1,43 @@
+{
+  "build": "py37h4f9e942_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "blas 1.0 mkl",
+    "libgcc-ng >=7.3.0",
+    "libgfortran-ng >=7,<8.0a0",
+    "mkl >=2019.4,<2021.0a0",
+    "mkl-service >=2,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 1.18.1.*",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/numpy-1.18.1-py37h4f9e942_0",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.18.1-py37h4f9e942_0.conda",
+  "legacy_bz2_md5": "b2cee869ff806bb654626816bdb08aeb",
+  "legacy_bz2_size": 5138,
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/numpy-1.18.1-py37h4f9e942_0",
+    "type": 1
+  },
+  "md5": "ab4634753f99d1542cd04a2550e9d494",
+  "name": "numpy",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/numpy-1.18.1-py37h4f9e942_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "numpy==1.18.1=py37h4f9e942_0",
+  "sha256": "50c61ed4302f5d2dcd633b50436ac2a3bd0368eb09ab21de5f3dae8cfd88e58c",
+  "size": 5336,
+  "subdir": "linux-64",
+  "timestamp": 1579205960526,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/numpy-1.18.1-py37h4f9e942_0.conda",
+  "version": "1.18.1"
+}

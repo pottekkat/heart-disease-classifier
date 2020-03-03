@@ -1,0 +1,102 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/six-1.14.0-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/__pycache__/six.cpython-37.pyc",
+    "lib/python3.7/site-packages/six-1.14.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/six-1.14.0.dist-info/LICENSE",
+    "lib/python3.7/site-packages/six-1.14.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/six-1.14.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/six-1.14.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/six-1.14.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/six.py"
+  ],
+  "fn": "six-1.14.0-py37_0.conda",
+  "legacy_bz2_md5": "fb6def8ed7c6461756dd78429faadcf2",
+  "legacy_bz2_size": 27674,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/six-1.14.0-py37_0",
+    "type": 1
+  },
+  "md5": "dab70d0de57e545e56d7f3622fa61ccb",
+  "name": "six",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/six-1.14.0-py37_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/__pycache__/six.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f88d9b6021d0a7dcbe7e1cecfbbc0026e7f49ad48a2f1b4a78bd6526fbfc0332",
+        "sha256_in_prefix": "f88d9b6021d0a7dcbe7e1cecfbbc0026e7f49ad48a2f1b4a78bd6526fbfc0332",
+        "size_in_bytes": 26830
+      },
+      {
+        "_path": "lib/python3.7/site-packages/six-1.14.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/six-1.14.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8bb850c565aa389fdc16f3a46965ad23d82adff60f2393fc2762b63185e8e6c9",
+        "sha256_in_prefix": "8bb850c565aa389fdc16f3a46965ad23d82adff60f2393fc2762b63185e8e6c9",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "lib/python3.7/site-packages/six-1.14.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9c401cf61b80b67d770676b7310d594acc28c9a57b18c25d29f1a5b87157e035",
+        "sha256_in_prefix": "9c401cf61b80b67d770676b7310d594acc28c9a57b18c25d29f1a5b87157e035",
+        "size_in_bytes": 1795
+      },
+      {
+        "_path": "lib/python3.7/site-packages/six-1.14.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "174e132bf7f233b156bba557bd968ef83c4c342a07d4b312d0ba6d5c1416c2a3",
+        "sha256_in_prefix": "174e132bf7f233b156bba557bd968ef83c4c342a07d4b312d0ba6d5c1416c2a3",
+        "size_in_bytes": 560
+      },
+      {
+        "_path": "lib/python3.7/site-packages/six-1.14.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.7/site-packages/six-1.14.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/six.py",
+        "path_type": "hardlink",
+        "sha256": "43a5af1176750c6100480a370863422642afdad3f2f3191298af951c4f4f6080",
+        "sha256_in_prefix": "43a5af1176750c6100480a370863422642afdad3f2f3191298af951c4f4f6080",
+        "size_in_bytes": 34074
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "six==1.14.0=py37_0",
+  "sha256": "e14e198af02998c700ab0fe8d3b790be03592829bf25f14c8a21171299472e0e",
+  "size": 27152,
+  "subdir": "linux-64",
+  "timestamp": 1580149912348,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/six-1.14.0-py37_0.conda",
+  "version": "1.14.0"
+}

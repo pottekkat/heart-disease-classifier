@@ -1,0 +1,100 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/pyparsing-2.4.6-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/pyparsing-2.4.6.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/pyparsing-2.4.6.dist-info/LICENSE",
+    "lib/python3.7/site-packages/pyparsing-2.4.6.dist-info/METADATA",
+    "lib/python3.7/site-packages/pyparsing-2.4.6.dist-info/RECORD",
+    "lib/python3.7/site-packages/pyparsing-2.4.6.dist-info/WHEEL",
+    "lib/python3.7/site-packages/pyparsing-2.4.6.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/pyparsing.py",
+    "lib/python3.7/site-packages/__pycache__/pyparsing.cpython-37.pyc"
+  ],
+  "fn": "pyparsing-2.4.6-py_0.conda",
+  "legacy_bz2_md5": "e73a18954fa12bdfebf3c6e235a214af",
+  "legacy_bz2_size": 65246,
+  "license": "MIT",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/pyparsing-2.4.6-py_0",
+    "type": 1
+  },
+  "md5": "972eb33b817d57c11e1ad22190cc8a03",
+  "name": "pyparsing",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/pyparsing-2.4.6-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pyparsing-2.4.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pyparsing-2.4.6.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "10d5120a16805804ffda8b688c220bfb4e8f39741b57320604d455a309e01972",
+        "sha256_in_prefix": "10d5120a16805804ffda8b688c220bfb4e8f39741b57320604d455a309e01972",
+        "size_in_bytes": 1023
+      },
+      {
+        "_path": "site-packages/pyparsing-2.4.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "97d79a599d9e4d80672b1973df02d5f587e5241a4e8a2bfd976ccc97cf2b7581",
+        "sha256_in_prefix": "97d79a599d9e4d80672b1973df02d5f587e5241a4e8a2bfd976ccc97cf2b7581",
+        "size_in_bytes": 3636
+      },
+      {
+        "_path": "site-packages/pyparsing-2.4.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "010a85602998b46fea81e9843243697998e073b2aeb80183160c46d839ecf4de",
+        "sha256_in_prefix": "010a85602998b46fea81e9843243697998e073b2aeb80183160c46d839ecf4de",
+        "size_in_bytes": 581
+      },
+      {
+        "_path": "site-packages/pyparsing-2.4.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/pyparsing-2.4.6.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7943a31b3255865437592dab140cb698ddcb5ffec5293339192274e237e72e65",
+        "sha256_in_prefix": "7943a31b3255865437592dab140cb698ddcb5ffec5293339192274e237e72e65",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/pyparsing.py",
+        "path_type": "hardlink",
+        "sha256": "429634dfe62cb4c73d7c8252d53efeb8a0c0483ff4ff0772069387761e9384bc",
+        "sha256_in_prefix": "429634dfe62cb4c73d7c8252d53efeb8a0c0483ff4ff0772069387761e9384bc",
+        "size_in_bytes": 272400
+      },
+      {
+        "_path": "lib/python3.7/site-packages/__pycache__/pyparsing.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pyparsing==2.4.6=py_0",
+  "sha256": "b5bd4478951c06e925e167aca1d79c8daf3f17135a7e2992c82b9145ab8e7642",
+  "size": 66030,
+  "subdir": "noarch",
+  "timestamp": 1578416791042,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pyparsing-2.4.6-py_0.conda",
+  "version": "2.4.6"
+}

@@ -1,0 +1,13 @@
+# Package Information for pkg-config
+
+prefix=/home/navendu/ML_Projects/heart-disease-classifier/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: SQLite
+Description: SQL database engine
+Version: 3.31.1
+Libs: -L${libdir} -lsqlite3
+Libs.private: -lm -ldl -lpthread 
+Cflags: -I${includedir}

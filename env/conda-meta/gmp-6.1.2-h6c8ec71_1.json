@@ -1,0 +1,160 @@
+{
+  "build": "h6c8ec71_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.2.0",
+    "libstdcxx-ng >=7.2.0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/gmp-6.1.2-h6c8ec71_1",
+  "features": "",
+  "files": [
+    "include/gmp.h",
+    "include/gmpxx.h",
+    "lib/libgmp.a",
+    "lib/libgmp.la",
+    "lib/libgmp.so",
+    "lib/libgmp.so.10",
+    "lib/libgmp.so.10.3.2",
+    "lib/libgmpxx.a",
+    "lib/libgmpxx.la",
+    "lib/libgmpxx.so",
+    "lib/libgmpxx.so.4",
+    "lib/libgmpxx.so.4.5.2",
+    "share/info/gmp.info",
+    "share/info/gmp.info-1",
+    "share/info/gmp.info-2"
+  ],
+  "fn": "gmp-6.1.2-h6c8ec71_1.conda",
+  "legacy_bz2_md5": "6344038378cefeb1e4010852183a497d",
+  "legacy_bz2_size": 762286,
+  "license": "GPL 2 and LGPL 3",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/gmp-6.1.2-h6c8ec71_1",
+    "type": 1
+  },
+  "md5": "00620fd5552907fddda83ce4a11e5bac",
+  "name": "gmp",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/gmp-6.1.2-h6c8ec71_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/gmp.h",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "13271b2c538c1b643c649b241640d836e91b55ab40f61116d58600dde59b400d",
+        "sha256_in_prefix": "f9c6ea97a491b1fdac6788f8cb6423ffd6ee961eab7777820cb67cdec8e058d7",
+        "size_in_bytes": 83796
+      },
+      {
+        "_path": "include/gmpxx.h",
+        "path_type": "hardlink",
+        "sha256": "7b170650ace8ab726824accacc205b31e7d99b255d4787c47d6d0fa5c6b73eac",
+        "sha256_in_prefix": "7b170650ace8ab726824accacc205b31e7d99b255d4787c47d6d0fa5c6b73eac",
+        "size_in_bytes": 116607
+      },
+      {
+        "_path": "lib/libgmp.a",
+        "path_type": "hardlink",
+        "sha256": "acb76dd1b899ab430c1187e42edd2f34822ec2498a938352377bfa0e760cd146",
+        "sha256_in_prefix": "acb76dd1b899ab430c1187e42edd2f34822ec2498a938352377bfa0e760cd146",
+        "size_in_bytes": 1561488
+      },
+      {
+        "_path": "lib/libgmp.la",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "608b243f2381f81445718aae58cfa0c2d5c7c778309f0b8856320b470d0ec87a",
+        "sha256_in_prefix": "b14c426397cd637eaf9d985da5dae53b43026f90d55c1f786d107d53f38387b2",
+        "size_in_bytes": 935
+      },
+      {
+        "_path": "lib/libgmp.so",
+        "path_type": "softlink",
+        "sha256": "a93ad9a61f8de7bf0866d01e29417cf261bc2108f738b0f9e686526f5f4181cd",
+        "size_in_bytes": 661928
+      },
+      {
+        "_path": "lib/libgmp.so.10",
+        "path_type": "softlink",
+        "sha256": "a93ad9a61f8de7bf0866d01e29417cf261bc2108f738b0f9e686526f5f4181cd",
+        "size_in_bytes": 661928
+      },
+      {
+        "_path": "lib/libgmp.so.10.3.2",
+        "path_type": "hardlink",
+        "sha256": "a93ad9a61f8de7bf0866d01e29417cf261bc2108f738b0f9e686526f5f4181cd",
+        "sha256_in_prefix": "a93ad9a61f8de7bf0866d01e29417cf261bc2108f738b0f9e686526f5f4181cd",
+        "size_in_bytes": 661928
+      },
+      {
+        "_path": "lib/libgmpxx.a",
+        "path_type": "hardlink",
+        "sha256": "2e31c3d307d3af7136d420a649aac12a9138f41026e9ad34d13e19823da90cc9",
+        "sha256_in_prefix": "2e31c3d307d3af7136d420a649aac12a9138f41026e9ad34d13e19823da90cc9",
+        "size_in_bytes": 61766
+      },
+      {
+        "_path": "lib/libgmpxx.la",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "bda0507021e497ce493312ebfdf590edd5a228b844122432db46c70d1edb704f",
+        "sha256_in_prefix": "35a5076703e3c356f033d3ff8efd480b3420bfe3a80af4065e3c1a4c99d0761b",
+        "size_in_bytes": 1128
+      },
+      {
+        "_path": "lib/libgmpxx.so",
+        "path_type": "softlink",
+        "sha256": "9bd9de57a89d5dde8595eea4ef02be4b253d5c664066661072f18893f1d065bf",
+        "size_in_bytes": 39048
+      },
+      {
+        "_path": "lib/libgmpxx.so.4",
+        "path_type": "softlink",
+        "sha256": "9bd9de57a89d5dde8595eea4ef02be4b253d5c664066661072f18893f1d065bf",
+        "size_in_bytes": 39048
+      },
+      {
+        "_path": "lib/libgmpxx.so.4.5.2",
+        "path_type": "hardlink",
+        "sha256": "9bd9de57a89d5dde8595eea4ef02be4b253d5c664066661072f18893f1d065bf",
+        "sha256_in_prefix": "9bd9de57a89d5dde8595eea4ef02be4b253d5c664066661072f18893f1d065bf",
+        "size_in_bytes": 39048
+      },
+      {
+        "_path": "share/info/gmp.info",
+        "path_type": "hardlink",
+        "sha256": "bc690ceaef812eb24ff78db7c126c7c437e4ac28735b574f0a26156bfa1d1814",
+        "sha256_in_prefix": "bc690ceaef812eb24ff78db7c126c7c437e4ac28735b574f0a26156bfa1d1814",
+        "size_in_bytes": 5920
+      },
+      {
+        "_path": "share/info/gmp.info-1",
+        "path_type": "hardlink",
+        "sha256": "2c6c34554dc0510af68276ec25ac40aec8c60adb9d342754a4ecf91af31c3d96",
+        "sha256_in_prefix": "2c6c34554dc0510af68276ec25ac40aec8c60adb9d342754a4ecf91af31c3d96",
+        "size_in_bytes": 301714
+      },
+      {
+        "_path": "share/info/gmp.info-2",
+        "path_type": "hardlink",
+        "sha256": "68920853733f61b4c7bfd1136a7590da2dd6d131f2c2e87e271cd32415b477e3",
+        "sha256_in_prefix": "68920853733f61b4c7bfd1136a7590da2dd6d131f2c2e87e271cd32415b477e3",
+        "size_in_bytes": 214108
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "gmp==6.1.2=h6c8ec71_1",
+  "sha256": "c1f8ccf6ea60f02574c5f84b35f1f70b918c9bf828072f69b9ce4f6879b1fb8d",
+  "size": 526020,
+  "subdir": "linux-64",
+  "timestamp": 1510610105481,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/gmp-6.1.2-h6c8ec71_1.conda",
+  "version": "6.1.2"
+}

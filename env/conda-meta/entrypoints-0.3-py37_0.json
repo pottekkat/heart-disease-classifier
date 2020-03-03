@@ -1,0 +1,62 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/entrypoints-0.3-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/__pycache__/entrypoints.cpython-37.pyc",
+    "lib/python3.7/site-packages/entrypoints-0.3-py3.7.egg-info",
+    "lib/python3.7/site-packages/entrypoints.py"
+  ],
+  "fn": "entrypoints-0.3-py37_0.conda",
+  "legacy_bz2_md5": "455232993798b8378d543bc25085a36e",
+  "legacy_bz2_size": 12021,
+  "license": "MIT License",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/entrypoints-0.3-py37_0",
+    "type": 1
+  },
+  "md5": "08cfc83df40ff022d64e2bc1ac9aecac",
+  "name": "entrypoints",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/entrypoints-0.3-py37_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/__pycache__/entrypoints.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ae45dc1b29e9f3447c2d14977ea38363269efb454b939bcab08786346ea1dde2",
+        "sha256_in_prefix": "ae45dc1b29e9f3447c2d14977ea38363269efb454b939bcab08786346ea1dde2",
+        "size_in_bytes": 7078
+      },
+      {
+        "_path": "lib/python3.7/site-packages/entrypoints-0.3-py3.7.egg-info",
+        "path_type": "hardlink",
+        "sha256": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "sha256_in_prefix": "657ce900ad84beaec81901c22039f5bfca54b8baa7daf71bc9ebe862c9ad9a99",
+        "size_in_bytes": 284
+      },
+      {
+        "_path": "lib/python3.7/site-packages/entrypoints.py",
+        "path_type": "hardlink",
+        "sha256": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "sha256_in_prefix": "68a5307fc9444bce2f15b1bf04a97bd233c20ffdd7d8277205e5e546503be1f0",
+        "size_in_bytes": 8262
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "entrypoints==0.3=py37_0",
+  "sha256": "af05eb4b85989d4d826a726f1b948b2e1e87e4a1f5b1a1a125e3f582b7d1d939",
+  "size": 12217,
+  "subdir": "linux-64",
+  "timestamp": 1547904690205,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/entrypoints-0.3-py37_0.conda",
+  "version": "0.3"
+}

@@ -1,0 +1,150 @@
+{
+  "build": "py37_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/webencodings-0.5.1-py37_1",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/PKG-INFO",
+    "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/SOURCES.txt",
+    "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/dependency_links.txt",
+    "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/top_level.txt",
+    "lib/python3.7/site-packages/webencodings/__init__.py",
+    "lib/python3.7/site-packages/webencodings/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/webencodings/__pycache__/labels.cpython-37.pyc",
+    "lib/python3.7/site-packages/webencodings/__pycache__/mklabels.cpython-37.pyc",
+    "lib/python3.7/site-packages/webencodings/__pycache__/tests.cpython-37.pyc",
+    "lib/python3.7/site-packages/webencodings/__pycache__/x_user_defined.cpython-37.pyc",
+    "lib/python3.7/site-packages/webencodings/labels.py",
+    "lib/python3.7/site-packages/webencodings/mklabels.py",
+    "lib/python3.7/site-packages/webencodings/tests.py",
+    "lib/python3.7/site-packages/webencodings/x_user_defined.py"
+  ],
+  "fn": "webencodings-0.5.1-py37_1.conda",
+  "legacy_bz2_md5": "ad7b6b14717396aab3e6263d9f22817a",
+  "legacy_bz2_size": 19650,
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/webencodings-0.5.1-py37_1",
+    "type": 1
+  },
+  "md5": "fa2171c719f1d6be393dbe70fb9508fe",
+  "name": "webencodings",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/webencodings-0.5.1-py37_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "a4649fb78eb92cb15da1a27f3f4c2c8dacde8f5c21bf321c87d52fe4b32761b8",
+        "sha256_in_prefix": "a4649fb78eb92cb15da1a27f3f4c2c8dacde8f5c21bf321c87d52fe4b32761b8",
+        "size_in_bytes": 2337
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "32866808c8eceac3b9999e8d77800199133bb7ca25a736ae21f62122e74a0d7a",
+        "sha256_in_prefix": "32866808c8eceac3b9999e8d77800199133bb7ca25a736ae21f62122e74a0d7a",
+        "size_in_bytes": 299
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings-0.5.1-py3.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6d9b3f6991d27ff3cd95f2070f8f81113266462f7d04974a2eb396eeb42781ea",
+        "sha256_in_prefix": "6d9b3f6991d27ff3cd95f2070f8f81113266462f7d04974a2eb396eeb42781ea",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a8e04922e3f2ff8072607e96fdb360245faa610d83a14f9d2ac0eee724560978",
+        "sha256_in_prefix": "a8e04922e3f2ff8072607e96fdb360245faa610d83a14f9d2ac0eee724560978",
+        "size_in_bytes": 10579
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8df04a3cc3d02df4afbccca19b11f5ff179dababd9018aa33f1e7ce14983856",
+        "sha256_in_prefix": "b8df04a3cc3d02df4afbccca19b11f5ff179dababd9018aa33f1e7ce14983856",
+        "size_in_bytes": 9618
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/__pycache__/labels.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0df46fd40f5a2c64619a06e6dc61e9725ac96486e6dae41915acb5d4bcc46dbc",
+        "sha256_in_prefix": "0df46fd40f5a2c64619a06e6dc61e9725ac96486e6dae41915acb5d4bcc46dbc",
+        "size_in_bytes": 4032
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/__pycache__/mklabels.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "70fa245b109c6f18eaea095ab5075c0f1b23163159a272dac9c2a383055468e4",
+        "sha256_in_prefix": "70fa245b109c6f18eaea095ab5075c0f1b23163159a272dac9c2a383055468e4",
+        "size_in_bytes": 1854
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/__pycache__/tests.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "e75e3ba613b1d73c54944bcfd86a4712f797963be285cafa4adc5fa4c5e5b319",
+        "sha256_in_prefix": "e75e3ba613b1d73c54944bcfd86a4712f797963be285cafa4adc5fa4c5e5b319",
+        "size_in_bytes": 4995
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/__pycache__/x_user_defined.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "b2dd489af42f9a6c9a7363574822efe23393876a1a3c18ff1bceb5b4c77b9c5e",
+        "sha256_in_prefix": "b2dd489af42f9a6c9a7363574822efe23393876a1a3c18ff1bceb5b4c77b9c5e",
+        "size_in_bytes": 2607
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/labels.py",
+        "path_type": "hardlink",
+        "sha256": "e003bf2b14dd76a1adacbf67b3b9003e36f409c37ac6c088c5b2b7ec763daf71",
+        "sha256_in_prefix": "e003bf2b14dd76a1adacbf67b3b9003e36f409c37ac6c088c5b2b7ec763daf71",
+        "size_in_bytes": 8979
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/mklabels.py",
+        "path_type": "hardlink",
+        "sha256": "19821ecb09e968b9cfd064a273c2c55a0774515bcefe5d4d73a62817ef3b47fe",
+        "sha256_in_prefix": "19821ecb09e968b9cfd064a273c2c55a0774515bcefe5d4d73a62817ef3b47fe",
+        "size_in_bytes": 1305
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/tests.py",
+        "path_type": "hardlink",
+        "sha256": "3ad18bca384d6357ef916d46bcb27f155f59a2a0bd027ca3afbab79314dbccdb",
+        "sha256_in_prefix": "3ad18bca384d6357ef916d46bcb27f155f59a2a0bd027ca3afbab79314dbccdb",
+        "size_in_bytes": 6563
+      },
+      {
+        "_path": "lib/python3.7/site-packages/webencodings/x_user_defined.py",
+        "path_type": "hardlink",
+        "sha256": "c8ea9649d9a9cad19f52087f67a258803361a1cf81007cb279e4f5e45af8dad3",
+        "sha256_in_prefix": "c8ea9649d9a9cad19f52087f67a258803361a1cf81007cb279e4f5e45af8dad3",
+        "size_in_bytes": 4307
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "webencodings==0.5.1=py37_1",
+  "sha256": "b7f6a306123709b9f357a9d6d38ddc93f195bc80d1eaaf36405b0bcbdf87315b",
+  "size": 19553,
+  "subdir": "linux-64",
+  "timestamp": 1530734127084,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/webencodings-0.5.1-py37_1.conda",
+  "version": "0.5.1"
+}

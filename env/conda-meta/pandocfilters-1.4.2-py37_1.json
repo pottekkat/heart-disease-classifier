@@ -1,0 +1,94 @@
+{
+  "build": "py37_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/pandocfilters-1.4.2-py37_1",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/__pycache__/pandocfilters.cpython-37.pyc",
+    "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/METADATA",
+    "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/RECORD",
+    "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/WHEEL",
+    "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/pandocfilters.py"
+  ],
+  "fn": "pandocfilters-1.4.2-py37_1.conda",
+  "legacy_bz2_md5": "d22136bc6403573477b61e4745996058",
+  "legacy_bz2_size": 13049,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/pandocfilters-1.4.2-py37_1",
+    "type": 1
+  },
+  "md5": "0ca585bcdb2d0f7bed41b951a8654581",
+  "name": "pandocfilters",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/pandocfilters-1.4.2-py37_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/__pycache__/pandocfilters.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "722663d724e41357b35f7e7583d5f921ecac7b322fa9c75f69ace3ce46475d05",
+        "sha256_in_prefix": "722663d724e41357b35f7e7583d5f921ecac7b322fa9c75f69ace3ce46475d05",
+        "size_in_bytes": 7782
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "786c11fcb6f7a20b8ea7208dca7d4c7367721238f836dde047bc2939d4ba1d51",
+        "sha256_in_prefix": "786c11fcb6f7a20b8ea7208dca7d4c7367721238f836dde047bc2939d4ba1d51",
+        "size_in_bytes": 7414
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d86c79189fb41b4a71585644aa0d1c985ca336a88ca2fa1febad8fc67b1ecebd",
+        "sha256_in_prefix": "d86c79189fb41b4a71585644aa0d1c985ca336a88ca2fa1febad8fc67b1ecebd",
+        "size_in_bytes": 538
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4f449398be0e232118af5c35cc87d9ea38328e5d5beb30f01291aa316438257a",
+        "sha256_in_prefix": "4f449398be0e232118af5c35cc87d9ea38328e5d5beb30f01291aa316438257a",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pandocfilters-1.4.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "87b8354e84563a696aadf8c4117127025462b410050e8abc988fab34e09263ff",
+        "sha256_in_prefix": "87b8354e84563a696aadf8c4117127025462b410050e8abc988fab34e09263ff",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pandocfilters.py",
+        "path_type": "hardlink",
+        "sha256": "47a9a113edd11bb650db7800271e6006bb2bf3dfd0d36db0e095e261ecd1b46b",
+        "sha256_in_prefix": "47a9a113edd11bb650db7800271e6006bb2bf3dfd0d36db0e095e261ecd1b46b",
+        "size_in_bytes": 8271
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "pandocfilters==1.4.2=py37_1",
+  "sha256": "a3450238dcab46bb40cda43bb10d233cd2b2e4a1a9e10dc446c556665ff5d947",
+  "size": 13086,
+  "subdir": "linux-64",
+  "timestamp": 1530734431114,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/pandocfilters-1.4.2-py37_1.conda",
+  "version": "1.4.2"
+}

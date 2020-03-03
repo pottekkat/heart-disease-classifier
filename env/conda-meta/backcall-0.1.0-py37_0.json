@@ -1,0 +1,126 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/backcall-0.1.0-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/backcall-0.1.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/backcall-0.1.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/backcall-0.1.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/backcall-0.1.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/backcall-0.1.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/backcall/__init__.py",
+    "lib/python3.7/site-packages/backcall/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/backcall/__pycache__/_signatures.cpython-37.pyc",
+    "lib/python3.7/site-packages/backcall/__pycache__/backcall.cpython-37.pyc",
+    "lib/python3.7/site-packages/backcall/_signatures.py",
+    "lib/python3.7/site-packages/backcall/backcall.py"
+  ],
+  "fn": "backcall-0.1.0-py37_0.conda",
+  "legacy_bz2_md5": "7b0a877243f8952fac4d1069b3317f7c",
+  "legacy_bz2_size": 20019,
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/backcall-0.1.0-py37_0",
+    "type": 1
+  },
+  "md5": "b6b56726b371aa7ba90fa78a75e98e09",
+  "name": "backcall",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/backcall-0.1.0-py37_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/backcall-0.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall-0.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "cff730c1722c7069c90994cc9bb50a59d4cb5d85f89d456cfb92390230d493e4",
+        "sha256_in_prefix": "cff730c1722c7069c90994cc9bb50a59d4cb5d85f89d456cfb92390230d493e4",
+        "size_in_bytes": 2114
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall-0.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4070b12ad115912ea9e578e6edb58f51e047793df65b950c35730294a1eb365b",
+        "sha256_in_prefix": "4070b12ad115912ea9e578e6edb58f51e047793df65b950c35730294a1eb365b",
+        "size_in_bytes": 778
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall-0.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4f449398be0e232118af5c35cc87d9ea38328e5d5beb30f01291aa316438257a",
+        "sha256_in_prefix": "4f449398be0e232118af5c35cc87d9ea38328e5d5beb30f01291aa316438257a",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall-0.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d647befcb4ea8484fc7abaf67f6ada9ce3baaae1dbc94f8be73a7781caa6e980",
+        "sha256_in_prefix": "d647befcb4ea8484fc7abaf67f6ada9ce3baaae1dbc94f8be73a7781caa6e980",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a400e82cd08d8b77c2948b3f41d6e0cc25d5e5e42565e848830a5b1559e31c41",
+        "sha256_in_prefix": "a400e82cd08d8b77c2948b3f41d6e0cc25d5e5e42565e848830a5b1559e31c41",
+        "size_in_bytes": 148
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa3ac3ebe3818bc185085afe06e8f724cebe854620a295728d113f163ab5abb6",
+        "sha256_in_prefix": "fa3ac3ebe3818bc185085afe06e8f724cebe854620a295728d113f163ab5abb6",
+        "size_in_bytes": 281
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall/__pycache__/_signatures.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "573c5aae9501b3280bec7afad98fb4107ea7a97845c738bc2fd10fc5bec60901",
+        "sha256_in_prefix": "573c5aae9501b3280bec7afad98fb4107ea7a97845c738bc2fd10fc5bec60901",
+        "size_in_bytes": 17536
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall/__pycache__/backcall.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "702840b1007ed85ca43c9959fed8bb0db0e123f966a5e395e6bdce7f0f51e72a",
+        "sha256_in_prefix": "702840b1007ed85ca43c9959fed8bb0db0e123f966a5e395e6bdce7f0f51e72a",
+        "size_in_bytes": 2681
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall/_signatures.py",
+        "path_type": "hardlink",
+        "sha256": "cb7a71fdf4c5559332f3e9b04cebd2c6538e68b51d1c9985dfb93b46ff4d5eed",
+        "sha256_in_prefix": "cb7a71fdf4c5559332f3e9b04cebd2c6538e68b51d1c9985dfb93b46ff4d5eed",
+        "size_in_bytes": 29847
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backcall/backcall.py",
+        "path_type": "hardlink",
+        "sha256": "0d0ccd5efe3b668a1af184d7e41135f51b8bc788f2ac4b105112531e1aa1738f",
+        "sha256_in_prefix": "0d0ccd5efe3b668a1af184d7e41135f51b8bc788f2ac4b105112531e1aa1738f",
+        "size_in_bytes": 3752
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "backcall==0.1.0=py37_0",
+  "sha256": "56bac065bbd1680606bf083367cd7a729cc532aec21cd07389cbeadf19b01be0",
+  "size": 20591,
+  "subdir": "linux-64",
+  "timestamp": 1530733699748,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/backcall-0.1.0-py37_0.conda",
+  "version": "0.1.0"
+}

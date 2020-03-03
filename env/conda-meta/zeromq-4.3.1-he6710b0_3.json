@@ -1,0 +1,649 @@
+{
+  "build": "he6710b0_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libsodium >=1.0.16,<1.0.17.0a0",
+    "libstdcxx-ng >=7.3.0"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/zeromq-4.3.1-he6710b0_3",
+  "features": "",
+  "files": [
+    "bin/curve_keygen",
+    "include/zmq.h",
+    "include/zmq_utils.h",
+    "lib/cmake/ZeroMQ/ZeroMQConfig.cmake",
+    "lib/cmake/ZeroMQ/ZeroMQConfigVersion.cmake",
+    "lib/libzmq.a",
+    "lib/libzmq.so",
+    "lib/libzmq.so.5",
+    "lib/libzmq.so.5.2.1",
+    "lib/pkgconfig/libzmq.pc",
+    "share/man/man3/zmq_atomic_counter_dec.3",
+    "share/man/man3/zmq_atomic_counter_destroy.3",
+    "share/man/man3/zmq_atomic_counter_inc.3",
+    "share/man/man3/zmq_atomic_counter_new.3",
+    "share/man/man3/zmq_atomic_counter_set.3",
+    "share/man/man3/zmq_atomic_counter_value.3",
+    "share/man/man3/zmq_bind.3",
+    "share/man/man3/zmq_close.3",
+    "share/man/man3/zmq_connect.3",
+    "share/man/man3/zmq_ctx_get.3",
+    "share/man/man3/zmq_ctx_new.3",
+    "share/man/man3/zmq_ctx_set.3",
+    "share/man/man3/zmq_ctx_shutdown.3",
+    "share/man/man3/zmq_ctx_term.3",
+    "share/man/man3/zmq_curve_keypair.3",
+    "share/man/man3/zmq_curve_public.3",
+    "share/man/man3/zmq_disconnect.3",
+    "share/man/man3/zmq_errno.3",
+    "share/man/man3/zmq_getsockopt.3",
+    "share/man/man3/zmq_has.3",
+    "share/man/man3/zmq_msg_close.3",
+    "share/man/man3/zmq_msg_copy.3",
+    "share/man/man3/zmq_msg_data.3",
+    "share/man/man3/zmq_msg_get.3",
+    "share/man/man3/zmq_msg_gets.3",
+    "share/man/man3/zmq_msg_init.3",
+    "share/man/man3/zmq_msg_init_data.3",
+    "share/man/man3/zmq_msg_init_size.3",
+    "share/man/man3/zmq_msg_more.3",
+    "share/man/man3/zmq_msg_move.3",
+    "share/man/man3/zmq_msg_recv.3",
+    "share/man/man3/zmq_msg_routing_id.3",
+    "share/man/man3/zmq_msg_send.3",
+    "share/man/man3/zmq_msg_set.3",
+    "share/man/man3/zmq_msg_set_routing_id.3",
+    "share/man/man3/zmq_msg_size.3",
+    "share/man/man3/zmq_poll.3",
+    "share/man/man3/zmq_poller.3",
+    "share/man/man3/zmq_proxy.3",
+    "share/man/man3/zmq_proxy_steerable.3",
+    "share/man/man3/zmq_recv.3",
+    "share/man/man3/zmq_recvmsg.3",
+    "share/man/man3/zmq_send.3",
+    "share/man/man3/zmq_send_const.3",
+    "share/man/man3/zmq_sendmsg.3",
+    "share/man/man3/zmq_setsockopt.3",
+    "share/man/man3/zmq_socket.3",
+    "share/man/man3/zmq_socket_monitor.3",
+    "share/man/man3/zmq_strerror.3",
+    "share/man/man3/zmq_timers.3",
+    "share/man/man3/zmq_unbind.3",
+    "share/man/man3/zmq_version.3",
+    "share/man/man3/zmq_z85_decode.3",
+    "share/man/man3/zmq_z85_encode.3",
+    "share/man/man7/zmq.7",
+    "share/man/man7/zmq_curve.7",
+    "share/man/man7/zmq_gssapi.7",
+    "share/man/man7/zmq_inproc.7",
+    "share/man/man7/zmq_ipc.7",
+    "share/man/man7/zmq_null.7",
+    "share/man/man7/zmq_pgm.7",
+    "share/man/man7/zmq_plain.7",
+    "share/man/man7/zmq_tcp.7",
+    "share/man/man7/zmq_tipc.7",
+    "share/man/man7/zmq_udp.7",
+    "share/man/man7/zmq_vmci.7"
+  ],
+  "fn": "zeromq-4.3.1-he6710b0_3.conda",
+  "legacy_bz2_md5": "e59aaaa10e70ee13cdf89275fa6c09e0",
+  "legacy_bz2_size": 681607,
+  "license": "LGPL 3",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/zeromq-4.3.1-he6710b0_3",
+    "type": 1
+  },
+  "md5": "404725cf94aaabcf50dcf280b619d999",
+  "name": "zeromq",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/zeromq-4.3.1-he6710b0_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/curve_keygen",
+        "path_type": "hardlink",
+        "sha256": "62c86d78ed3d47867c6cc4210a889cbae9d1516560ff57485e13b7e9a9e76254",
+        "sha256_in_prefix": "62c86d78ed3d47867c6cc4210a889cbae9d1516560ff57485e13b7e9a9e76254",
+        "size_in_bytes": 19800
+      },
+      {
+        "_path": "include/zmq.h",
+        "path_type": "hardlink",
+        "sha256": "262938b962b2b472c5a687239583d1b6a5967259e3f72648f92863fcb68c3b6c",
+        "sha256_in_prefix": "262938b962b2b472c5a687239583d1b6a5967259e3f72648f92863fcb68c3b6c",
+        "size_in_bytes": 28232
+      },
+      {
+        "_path": "include/zmq_utils.h",
+        "path_type": "hardlink",
+        "sha256": "8bdd4cd98e9c87742bcb0e69625d762f234d02c6555f12a07c31455dc75f7362",
+        "sha256_in_prefix": "8bdd4cd98e9c87742bcb0e69625d762f234d02c6555f12a07c31455dc75f7362",
+        "size_in_bytes": 2401
+      },
+      {
+        "_path": "lib/cmake/ZeroMQ/ZeroMQConfig.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "e7abb8e4b0fe3c1d751d6f9a55850ca0797d04dd2ae2b1845a13f037a72b6885",
+        "sha256_in_prefix": "28e933fe63edc6f6ff9fbf04cddc553c5b7fd2a153c8f3e9ed66908a4341e267",
+        "size_in_bytes": 868
+      },
+      {
+        "_path": "lib/cmake/ZeroMQ/ZeroMQConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "d2281f510f0737c5257db309a49b98188ce898f35b3800dfa6d152a0621b593c",
+        "sha256_in_prefix": "d2281f510f0737c5257db309a49b98188ce898f35b3800dfa6d152a0621b593c",
+        "size_in_bytes": 367
+      },
+      {
+        "_path": "lib/libzmq.a",
+        "path_type": "hardlink",
+        "sha256": "724eb1ba6a548047e2017d79f4572bc302c525ba2d7ed10d6edb3b2d51b830d4",
+        "sha256_in_prefix": "724eb1ba6a548047e2017d79f4572bc302c525ba2d7ed10d6edb3b2d51b830d4",
+        "size_in_bytes": 2287474
+      },
+      {
+        "_path": "lib/libzmq.so",
+        "path_type": "softlink",
+        "sha256": "12155c45124dee77c8b1923768f7068a40226efe7f1721384ba83d6ea561a3e3",
+        "size_in_bytes": 731928
+      },
+      {
+        "_path": "lib/libzmq.so.5",
+        "path_type": "softlink",
+        "sha256": "12155c45124dee77c8b1923768f7068a40226efe7f1721384ba83d6ea561a3e3",
+        "size_in_bytes": 731928
+      },
+      {
+        "_path": "lib/libzmq.so.5.2.1",
+        "path_type": "hardlink",
+        "sha256": "12155c45124dee77c8b1923768f7068a40226efe7f1721384ba83d6ea561a3e3",
+        "sha256_in_prefix": "12155c45124dee77c8b1923768f7068a40226efe7f1721384ba83d6ea561a3e3",
+        "size_in_bytes": 731928
+      },
+      {
+        "_path": "lib/pkgconfig/libzmq.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "b03799edd6ec7c0d1d59bf2904d1c816a3337d50e59f18b0a4ad84bc43b1610a",
+        "sha256_in_prefix": "bdef245383c57ea90c40ce50a1d8c50b933cca54c2f04432d8ced15d3cd71918",
+        "size_in_bytes": 292
+      },
+      {
+        "_path": "share/man/man3/zmq_atomic_counter_dec.3",
+        "path_type": "hardlink",
+        "sha256": "b6e8f046ce337ecf846bbe1f95da2965b3bdc99165bfb36b909f390082239b97",
+        "sha256_in_prefix": "b6e8f046ce337ecf846bbe1f95da2965b3bdc99165bfb36b909f390082239b97",
+        "size_in_bytes": 2810
+      },
+      {
+        "_path": "share/man/man3/zmq_atomic_counter_destroy.3",
+        "path_type": "hardlink",
+        "sha256": "055f2d94eb15387df5545eca4aed4995f4d85dcc407556a4abd9ae1d5af98865",
+        "sha256_in_prefix": "055f2d94eb15387df5545eca4aed4995f4d85dcc407556a4abd9ae1d5af98865",
+        "size_in_bytes": 2904
+      },
+      {
+        "_path": "share/man/man3/zmq_atomic_counter_inc.3",
+        "path_type": "hardlink",
+        "sha256": "1463e0d2149d9fe8d1f0accdf6e97cb47f6f9c86ea4bf0e65f27353329e7d47e",
+        "sha256_in_prefix": "1463e0d2149d9fe8d1f0accdf6e97cb47f6f9c86ea4bf0e65f27353329e7d47e",
+        "size_in_bytes": 2766
+      },
+      {
+        "_path": "share/man/man3/zmq_atomic_counter_new.3",
+        "path_type": "hardlink",
+        "sha256": "f7f6f0a2e96259118edd18d25bbea39d68574dbf190891745976387ed2d80fba",
+        "sha256_in_prefix": "f7f6f0a2e96259118edd18d25bbea39d68574dbf190891745976387ed2d80fba",
+        "size_in_bytes": 2906
+      },
+      {
+        "_path": "share/man/man3/zmq_atomic_counter_set.3",
+        "path_type": "hardlink",
+        "sha256": "a6e77710896c12fcb8ebd1f074a7ec93301f23ed96501d7a907a953ce7a2065b",
+        "sha256_in_prefix": "a6e77710896c12fcb8ebd1f074a7ec93301f23ed96501d7a907a953ce7a2065b",
+        "size_in_bytes": 2828
+      },
+      {
+        "_path": "share/man/man3/zmq_atomic_counter_value.3",
+        "path_type": "hardlink",
+        "sha256": "1dbf46f0bc9b6e46d348db066175dc8712b70b9bbb08b3cdde8f5d45176361f3",
+        "sha256_in_prefix": "1dbf46f0bc9b6e46d348db066175dc8712b70b9bbb08b3cdde8f5d45176361f3",
+        "size_in_bytes": 2913
+      },
+      {
+        "_path": "share/man/man3/zmq_bind.3",
+        "path_type": "hardlink",
+        "sha256": "c33f69781d722c484f9e61a6feebe4af19d37059d7c342e86548341eb3cd2958",
+        "sha256_in_prefix": "c33f69781d722c484f9e61a6feebe4af19d37059d7c342e86548341eb3cd2958",
+        "size_in_bytes": 5214
+      },
+      {
+        "_path": "share/man/man3/zmq_close.3",
+        "path_type": "hardlink",
+        "sha256": "6afc1aabd71d7c3f89a7dbb8a46ee4a16c486e4d8f81c27f84cc736c2658c0b7",
+        "sha256_in_prefix": "6afc1aabd71d7c3f89a7dbb8a46ee4a16c486e4d8f81c27f84cc736c2658c0b7",
+        "size_in_bytes": 3250
+      },
+      {
+        "_path": "share/man/man3/zmq_connect.3",
+        "path_type": "hardlink",
+        "sha256": "52400ad17212137fdd8e37697e21c0f7dc001b1365354cf2d24a23e6bb3386f4",
+        "sha256_in_prefix": "52400ad17212137fdd8e37697e21c0f7dc001b1365354cf2d24a23e6bb3386f4",
+        "size_in_bytes": 5758
+      },
+      {
+        "_path": "share/man/man3/zmq_ctx_get.3",
+        "path_type": "hardlink",
+        "sha256": "f8c4fef4d42e707837f87b9c84a478c6d530cfa534bf9ac207f00ce71e6a8e20",
+        "sha256_in_prefix": "f8c4fef4d42e707837f87b9c84a478c6d530cfa534bf9ac207f00ce71e6a8e20",
+        "size_in_bytes": 4653
+      },
+      {
+        "_path": "share/man/man3/zmq_ctx_new.3",
+        "path_type": "hardlink",
+        "sha256": "73d83275591d5da85d586448ccbf8c3971ced647e540fc2f8cb736551f5420d9",
+        "sha256_in_prefix": "73d83275591d5da85d586448ccbf8c3971ced647e540fc2f8cb736551f5420d9",
+        "size_in_bytes": 2240
+      },
+      {
+        "_path": "share/man/man3/zmq_ctx_set.3",
+        "path_type": "hardlink",
+        "sha256": "e1520ec5e80c881fd9e517e2beee223e44e6053a74a9f1d39b19b5f272579ab4",
+        "sha256_in_prefix": "e1520ec5e80c881fd9e517e2beee223e44e6053a74a9f1d39b19b5f272579ab4",
+        "size_in_bytes": 8392
+      },
+      {
+        "_path": "share/man/man3/zmq_ctx_shutdown.3",
+        "path_type": "hardlink",
+        "sha256": "014cdb015e7d0485b2b96e022cad9ed3fb71303d6aa14047443813068c230a52",
+        "sha256_in_prefix": "014cdb015e7d0485b2b96e022cad9ed3fb71303d6aa14047443813068c230a52",
+        "size_in_bytes": 2492
+      },
+      {
+        "_path": "share/man/man3/zmq_ctx_term.3",
+        "path_type": "hardlink",
+        "sha256": "dd5375cd69dfa4129d36ad0356f075bc4c38768be8345c27d1c4eb85af636ee9",
+        "sha256_in_prefix": "dd5375cd69dfa4129d36ad0356f075bc4c38768be8345c27d1c4eb85af636ee9",
+        "size_in_bytes": 3437
+      },
+      {
+        "_path": "share/man/man3/zmq_curve_keypair.3",
+        "path_type": "hardlink",
+        "sha256": "c9534b0f881134f1474f3f7fcb05a49761ac660a960b95ca0ea4e2ef31c558cc",
+        "sha256_in_prefix": "c9534b0f881134f1474f3f7fcb05a49761ac660a960b95ca0ea4e2ef31c558cc",
+        "size_in_bytes": 2483
+      },
+      {
+        "_path": "share/man/man3/zmq_curve_public.3",
+        "path_type": "hardlink",
+        "sha256": "a0dce557dd931f11382dbae04315bb4eeff9a58225360a583d644820a169cda2",
+        "sha256_in_prefix": "a0dce557dd931f11382dbae04315bb4eeff9a58225360a583d644820a169cda2",
+        "size_in_bytes": 2715
+      },
+      {
+        "_path": "share/man/man3/zmq_disconnect.3",
+        "path_type": "hardlink",
+        "sha256": "c5848cb54e1a11fea4264961bdb6a80605e88c40b977ea899635ab5b9e4790e6",
+        "sha256_in_prefix": "c5848cb54e1a11fea4264961bdb6a80605e88c40b977ea899635ab5b9e4790e6",
+        "size_in_bytes": 3655
+      },
+      {
+        "_path": "share/man/man3/zmq_errno.3",
+        "path_type": "hardlink",
+        "sha256": "fe9858e397b6da1db54e8346d8c1d90b160ff434890539614eb81803b54d9da2",
+        "sha256_in_prefix": "fe9858e397b6da1db54e8346d8c1d90b160ff434890539614eb81803b54d9da2",
+        "size_in_bytes": 2528
+      },
+      {
+        "_path": "share/man/man3/zmq_getsockopt.3",
+        "path_type": "hardlink",
+        "sha256": "83670a23f3923c244cac11df117692eeed770d432929a8901953235f98c1b45a",
+        "sha256_in_prefix": "83670a23f3923c244cac11df117692eeed770d432929a8901953235f98c1b45a",
+        "size_in_bytes": 42951
+      },
+      {
+        "_path": "share/man/man3/zmq_has.3",
+        "path_type": "hardlink",
+        "sha256": "7a0f0a984519c0d583cc8b611e24f84f65dc56c30c9ca0de2fb599c622a13e4f",
+        "sha256_in_prefix": "7a0f0a984519c0d583cc8b611e24f84f65dc56c30c9ca0de2fb599c622a13e4f",
+        "size_in_bytes": 2983
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_close.3",
+        "path_type": "hardlink",
+        "sha256": "dfb2c32c152e80d8d2fa20896fb48a9ca8196e0b48142a470902388da9ea60a0",
+        "sha256_in_prefix": "dfb2c32c152e80d8d2fa20896fb48a9ca8196e0b48142a470902388da9ea60a0",
+        "size_in_bytes": 2784
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_copy.3",
+        "path_type": "hardlink",
+        "sha256": "ce4ae419da304dd586696998a35847433bad5862ed2bb84618a9816f4616567f",
+        "sha256_in_prefix": "ce4ae419da304dd586696998a35847433bad5862ed2bb84618a9816f4616567f",
+        "size_in_bytes": 3378
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_data.3",
+        "path_type": "hardlink",
+        "sha256": "abd65bd6b6ae665b41d3e33fb2ce50954df2e28ca3198d2cbb22f486f3dfb8d4",
+        "sha256_in_prefix": "abd65bd6b6ae665b41d3e33fb2ce50954df2e28ca3198d2cbb22f486f3dfb8d4",
+        "size_in_bytes": 2250
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_get.3",
+        "path_type": "hardlink",
+        "sha256": "95a1618de51fc32066ee58730af8e3d1303fa069c300609e6d6a21ad55568ef2",
+        "sha256_in_prefix": "95a1618de51fc32066ee58730af8e3d1303fa069c300609e6d6a21ad55568ef2",
+        "size_in_bytes": 3343
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_gets.3",
+        "path_type": "hardlink",
+        "sha256": "d22aa1bd3e5202b2d33a2cda64f7f6539681c329b510d594557e28e50609d3fa",
+        "sha256_in_prefix": "d22aa1bd3e5202b2d33a2cda64f7f6539681c329b510d594557e28e50609d3fa",
+        "size_in_bytes": 3853
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_init.3",
+        "path_type": "hardlink",
+        "sha256": "501b4d296b1d463b48385e99e1bc4238d1174a291fcbc0e14bf65904a6a3fde4",
+        "sha256_in_prefix": "501b4d296b1d463b48385e99e1bc4238d1174a291fcbc0e14bf65904a6a3fde4",
+        "size_in_bytes": 2839
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_init_data.3",
+        "path_type": "hardlink",
+        "sha256": "5363113663adf5b9679a86c54edf2caeb1f02e278ad76d67eede7480f44daa6e",
+        "sha256_in_prefix": "5363113663adf5b9679a86c54edf2caeb1f02e278ad76d67eede7480f44daa6e",
+        "size_in_bytes": 4151
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_init_size.3",
+        "path_type": "hardlink",
+        "sha256": "e1952e6d8206f50a715d25d167a5c16041b33a70e749b667f63aee0c3a586974",
+        "sha256_in_prefix": "e1952e6d8206f50a715d25d167a5c16041b33a70e749b667f63aee0c3a586974",
+        "size_in_bytes": 3019
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_more.3",
+        "path_type": "hardlink",
+        "sha256": "565c22ede958bc8adc7bc8d632ee304593c50011f93e08fc7c72bb69bb277d03",
+        "sha256_in_prefix": "565c22ede958bc8adc7bc8d632ee304593c50011f93e08fc7c72bb69bb277d03",
+        "size_in_bytes": 2771
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_move.3",
+        "path_type": "hardlink",
+        "sha256": "28f2980d2252bd4d878c66705c63d6ed672a891a425b0608d8508ec7454dc130",
+        "sha256_in_prefix": "28f2980d2252bd4d878c66705c63d6ed672a891a425b0608d8508ec7454dc130",
+        "size_in_bytes": 2642
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_recv.3",
+        "path_type": "hardlink",
+        "sha256": "b747cd6fff4f208bbf32af7829c0dadbf05df6fbeff0e66ca2bb3377941b864b",
+        "sha256_in_prefix": "b747cd6fff4f208bbf32af7829c0dadbf05df6fbeff0e66ca2bb3377941b864b",
+        "size_in_bytes": 5405
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_routing_id.3",
+        "path_type": "hardlink",
+        "sha256": "ae5b423d683587d8a1ccb3130379d19e1dbc9c1bd53ae67281724beb725ba307",
+        "sha256_in_prefix": "ae5b423d683587d8a1ccb3130379d19e1dbc9c1bd53ae67281724beb725ba307",
+        "size_in_bytes": 2688
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_send.3",
+        "path_type": "hardlink",
+        "sha256": "cbfe52fc2ccba116c2f1b4befc67c87b95000ae609d27ba72c2186614f6b29c8",
+        "sha256_in_prefix": "cbfe52fc2ccba116c2f1b4befc67c87b95000ae609d27ba72c2186614f6b29c8",
+        "size_in_bytes": 6092
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_set.3",
+        "path_type": "hardlink",
+        "sha256": "8513853b074ee9ee53d1f20142a32ebb9af113678e1538c8576856a9bdc6621a",
+        "sha256_in_prefix": "8513853b074ee9ee53d1f20142a32ebb9af113678e1538c8576856a9bdc6621a",
+        "size_in_bytes": 2230
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_set_routing_id.3",
+        "path_type": "hardlink",
+        "sha256": "e92a38113dea24e5f0635878fb093f48a326abbed3e4ea1564af734c75ee67c8",
+        "sha256_in_prefix": "e92a38113dea24e5f0635878fb093f48a326abbed3e4ea1564af734c75ee67c8",
+        "size_in_bytes": 2331
+      },
+      {
+        "_path": "share/man/man3/zmq_msg_size.3",
+        "path_type": "hardlink",
+        "sha256": "42d106e74a7ccae6bd843dee2437c0319154956043e4f32306ff009d96ea1236",
+        "sha256_in_prefix": "42d106e74a7ccae6bd843dee2437c0319154956043e4f32306ff009d96ea1236",
+        "size_in_bytes": 2262
+      },
+      {
+        "_path": "share/man/man3/zmq_poll.3",
+        "path_type": "hardlink",
+        "sha256": "850277f30765f04d8e71861b67c19e89b19501f668496f8ced8f2e0d6c38794a",
+        "sha256_in_prefix": "850277f30765f04d8e71861b67c19e89b19501f668496f8ced8f2e0d6c38794a",
+        "size_in_bytes": 6590
+      },
+      {
+        "_path": "share/man/man3/zmq_poller.3",
+        "path_type": "hardlink",
+        "sha256": "99ca818cea194c37f235d448279d565d300968dec9ad3299991ff97745de122d",
+        "sha256_in_prefix": "99ca818cea194c37f235d448279d565d300968dec9ad3299991ff97745de122d",
+        "size_in_bytes": 13104
+      },
+      {
+        "_path": "share/man/man3/zmq_proxy.3",
+        "path_type": "hardlink",
+        "sha256": "5f568e7a6de6651680a7cd06f2d63c3b67bcff50bc88a917070157d0a9ee00bf",
+        "sha256_in_prefix": "5f568e7a6de6651680a7cd06f2d63c3b67bcff50bc88a917070157d0a9ee00bf",
+        "size_in_bytes": 4476
+      },
+      {
+        "_path": "share/man/man3/zmq_proxy_steerable.3",
+        "path_type": "hardlink",
+        "sha256": "774bbc79e064c4a0eda58a6bb07b3ac6aefb785717c19f5c96feeb2e68518650",
+        "sha256_in_prefix": "774bbc79e064c4a0eda58a6bb07b3ac6aefb785717c19f5c96feeb2e68518650",
+        "size_in_bytes": 5422
+      },
+      {
+        "_path": "share/man/man3/zmq_recv.3",
+        "path_type": "hardlink",
+        "sha256": "7ea8ca9b523d0195044aa159f9226b596dbbf7dfce82a9656e4f119df7e0af6e",
+        "sha256_in_prefix": "7ea8ca9b523d0195044aa159f9226b596dbbf7dfce82a9656e4f119df7e0af6e",
+        "size_in_bytes": 4374
+      },
+      {
+        "_path": "share/man/man3/zmq_recvmsg.3",
+        "path_type": "hardlink",
+        "sha256": "186800e7f1007e07ff052a57630447cd5b1ea350598345b41dbb55f3c9006c1d",
+        "sha256_in_prefix": "186800e7f1007e07ff052a57630447cd5b1ea350598345b41dbb55f3c9006c1d",
+        "size_in_bytes": 5352
+      },
+      {
+        "_path": "share/man/man3/zmq_send.3",
+        "path_type": "hardlink",
+        "sha256": "7f525c0fb8abbd92a99b1fb0488e4efd507e43b098d66f583b5c92b3108c9f5e",
+        "sha256_in_prefix": "7f525c0fb8abbd92a99b1fb0488e4efd507e43b098d66f583b5c92b3108c9f5e",
+        "size_in_bytes": 4923
+      },
+      {
+        "_path": "share/man/man3/zmq_send_const.3",
+        "path_type": "hardlink",
+        "sha256": "29547c93a79b7e8b41828fa808109c5e7d2fe1a804ba9592d51c363703855397",
+        "sha256_in_prefix": "29547c93a79b7e8b41828fa808109c5e7d2fe1a804ba9592d51c363703855397",
+        "size_in_bytes": 5019
+      },
+      {
+        "_path": "share/man/man3/zmq_sendmsg.3",
+        "path_type": "hardlink",
+        "sha256": "fe1cf1f47e43dfdeb5e50b9fd0d699571e45db4c000f7247749a70e7896b2cd3",
+        "sha256_in_prefix": "fe1cf1f47e43dfdeb5e50b9fd0d699571e45db4c000f7247749a70e7896b2cd3",
+        "size_in_bytes": 5840
+      },
+      {
+        "_path": "share/man/man3/zmq_setsockopt.3",
+        "path_type": "hardlink",
+        "sha256": "6560cde9cf51fa9b22df0ca6933c2b238885e4901598e026c1184ac5fbc424ff",
+        "sha256_in_prefix": "6560cde9cf51fa9b22df0ca6933c2b238885e4901598e026c1184ac5fbc424ff",
+        "size_in_bytes": 64428
+      },
+      {
+        "_path": "share/man/man3/zmq_socket.3",
+        "path_type": "hardlink",
+        "sha256": "14e022a42e458f5e617b1b795a71c5017b0479a8e49ee31a939db2e3b95a6f17",
+        "sha256_in_prefix": "14e022a42e458f5e617b1b795a71c5017b0479a8e49ee31a939db2e3b95a6f17",
+        "size_in_bytes": 32003
+      },
+      {
+        "_path": "share/man/man3/zmq_socket_monitor.3",
+        "path_type": "hardlink",
+        "sha256": "99d367d479c8acc11b3de13a77fc6cac41620f5ca2a2e2e88c2ada1aadfc305f",
+        "sha256_in_prefix": "99d367d479c8acc11b3de13a77fc6cac41620f5ca2a2e2e88c2ada1aadfc305f",
+        "size_in_bytes": 10776
+      },
+      {
+        "_path": "share/man/man3/zmq_strerror.3",
+        "path_type": "hardlink",
+        "sha256": "7a1dd3793f85b83c28103c94c230e92700da444ff0c00b5298d1dd1a774af209",
+        "sha256_in_prefix": "7a1dd3793f85b83c28103c94c230e92700da444ff0c00b5298d1dd1a774af209",
+        "size_in_bytes": 2389
+      },
+      {
+        "_path": "share/man/man3/zmq_timers.3",
+        "path_type": "hardlink",
+        "sha256": "3bf3380ba8ce4d83cd43b86c19530987f43494ce61d22846b3ea9eb7c0bc0891",
+        "sha256_in_prefix": "3bf3380ba8ce4d83cd43b86c19530987f43494ce61d22846b3ea9eb7c0bc0891",
+        "size_in_bytes": 6815
+      },
+      {
+        "_path": "share/man/man3/zmq_unbind.3",
+        "path_type": "hardlink",
+        "sha256": "8861ad6f707275eb86723d68c0efa0adae845d33a061d1772f7b8e7f04271e22",
+        "sha256_in_prefix": "8861ad6f707275eb86723d68c0efa0adae845d33a061d1772f7b8e7f04271e22",
+        "size_in_bytes": 3779
+      },
+      {
+        "_path": "share/man/man3/zmq_version.3",
+        "path_type": "hardlink",
+        "sha256": "2aad7040954ccc4edd39b24bb35cc2b82ba12c8de2859c0254452b1632c99af8",
+        "sha256_in_prefix": "2aad7040954ccc4edd39b24bb35cc2b82ba12c8de2859c0254452b1632c99af8",
+        "size_in_bytes": 2399
+      },
+      {
+        "_path": "share/man/man3/zmq_z85_decode.3",
+        "path_type": "hardlink",
+        "sha256": "7f2ba96695ccdf8d566e01825be55d96db08c074f10fb960139b64a5fb76fa00",
+        "sha256_in_prefix": "7f2ba96695ccdf8d566e01825be55d96db08c074f10fb960139b64a5fb76fa00",
+        "size_in_bytes": 2341
+      },
+      {
+        "_path": "share/man/man3/zmq_z85_encode.3",
+        "path_type": "hardlink",
+        "sha256": "c4af06386b44281454366ce17ddc144f8df1ff309066efcc78f48f206b5e1971",
+        "sha256_in_prefix": "c4af06386b44281454366ce17ddc144f8df1ff309066efcc78f48f206b5e1971",
+        "size_in_bytes": 2581
+      },
+      {
+        "_path": "share/man/man7/zmq.7",
+        "path_type": "hardlink",
+        "sha256": "2ff741f7f736c4362d54663314b6d91a9d952f44848eb2fdf8026f39eafb8433",
+        "sha256_in_prefix": "2ff741f7f736c4362d54663314b6d91a9d952f44848eb2fdf8026f39eafb8433",
+        "size_in_bytes": 9876
+      },
+      {
+        "_path": "share/man/man7/zmq_curve.7",
+        "path_type": "hardlink",
+        "sha256": "3dab13420a4043b0880771356341b0d38b389c7862001caf8c02ab379159321b",
+        "sha256_in_prefix": "3dab13420a4043b0880771356341b0d38b389c7862001caf8c02ab379159321b",
+        "size_in_bytes": 4241
+      },
+      {
+        "_path": "share/man/man7/zmq_gssapi.7",
+        "path_type": "hardlink",
+        "sha256": "80c83dd1d9597956df3c8eb0191c567ba7ef54f6b1324ef3a61a5ff15097ea54",
+        "sha256_in_prefix": "80c83dd1d9597956df3c8eb0191c567ba7ef54f6b1324ef3a61a5ff15097ea54",
+        "size_in_bytes": 3885
+      },
+      {
+        "_path": "share/man/man7/zmq_inproc.7",
+        "path_type": "hardlink",
+        "sha256": "2e5c2a41784f2a39c8c88fb9eb4509cb2c48bdaebb3868dd00471c4d11e0272b",
+        "sha256_in_prefix": "2e5c2a41784f2a39c8c88fb9eb4509cb2c48bdaebb3868dd00471c4d11e0272b",
+        "size_in_bytes": 4178
+      },
+      {
+        "_path": "share/man/man7/zmq_ipc.7",
+        "path_type": "hardlink",
+        "sha256": "f8d7d9b696fef15425a816d8c00b9233c6567c472f372c881d6f0cc59c98d600",
+        "sha256_in_prefix": "f8d7d9b696fef15425a816d8c00b9233c6567c472f372c881d6f0cc59c98d600",
+        "size_in_bytes": 5701
+      },
+      {
+        "_path": "share/man/man7/zmq_null.7",
+        "path_type": "hardlink",
+        "sha256": "09fa812dccf183913bd381319ee12c61ea45f5450387b8df8601e28d6203db65",
+        "sha256_in_prefix": "09fa812dccf183913bd381319ee12c61ea45f5450387b8df8601e28d6203db65",
+        "size_in_bytes": 1714
+      },
+      {
+        "_path": "share/man/man7/zmq_pgm.7",
+        "path_type": "hardlink",
+        "sha256": "a71fdbd053b9773c220b2cc8f01ef2b207711f7379b1a648e2fe972f5e6783b5",
+        "sha256_in_prefix": "a71fdbd053b9773c220b2cc8f01ef2b207711f7379b1a648e2fe972f5e6783b5",
+        "size_in_bytes": 7808
+      },
+      {
+        "_path": "share/man/man7/zmq_plain.7",
+        "path_type": "hardlink",
+        "sha256": "e00d3b82007c064e0d9b5cfc951f209b0fe8a9f6c63c68ce78418f73876bbb44",
+        "sha256_in_prefix": "e00d3b82007c064e0d9b5cfc951f209b0fe8a9f6c63c68ce78418f73876bbb44",
+        "size_in_bytes": 2136
+      },
+      {
+        "_path": "share/man/man7/zmq_tcp.7",
+        "path_type": "hardlink",
+        "sha256": "3b6d4105d1582764ed210f6df23ef6e477e4550cf76d358704637b75baed5b28",
+        "sha256_in_prefix": "3b6d4105d1582764ed210f6df23ef6e477e4550cf76d358704637b75baed5b28",
+        "size_in_bytes": 6868
+      },
+      {
+        "_path": "share/man/man7/zmq_tipc.7",
+        "path_type": "hardlink",
+        "sha256": "75be9f9a02e26159aba1b94061a9c77a4c9e6509f4a4ca5f3eac8abb675450fe",
+        "sha256_in_prefix": "75be9f9a02e26159aba1b94061a9c77a4c9e6509f4a4ca5f3eac8abb675450fe",
+        "size_in_bytes": 3573
+      },
+      {
+        "_path": "share/man/man7/zmq_udp.7",
+        "path_type": "hardlink",
+        "sha256": "6a86f7fc7e87fa24f6b6bdaff94f330747ac17d053281b83bfdbb6e23b74f5b4",
+        "sha256_in_prefix": "6a86f7fc7e87fa24f6b6bdaff94f330747ac17d053281b83bfdbb6e23b74f5b4",
+        "size_in_bytes": 5072
+      },
+      {
+        "_path": "share/man/man7/zmq_vmci.7",
+        "path_type": "hardlink",
+        "sha256": "184be69a346cb2eedd3cea7674d2c979583ffdf1180133f52d77d04b75b782bc",
+        "sha256_in_prefix": "184be69a346cb2eedd3cea7674d2c979583ffdf1180133f52d77d04b75b782bc",
+        "size_in_bytes": 4619
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "zeromq==4.3.1=he6710b0_3",
+  "sha256": "769b09bc4c97d2028e6f1d827d801221aa3a36335cce2eee536da6e1fda15fbd",
+  "size": 507696,
+  "subdir": "linux-64",
+  "timestamp": 1549023379958,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/zeromq-4.3.1-he6710b0_3.conda",
+  "version": "4.3.1"
+}

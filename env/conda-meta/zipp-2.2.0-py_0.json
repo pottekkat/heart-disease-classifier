@@ -1,0 +1,101 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/zipp-2.2.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/zipp-2.2.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/zipp-2.2.0.dist-info/LICENSE",
+    "lib/python3.7/site-packages/zipp-2.2.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/zipp-2.2.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/zipp-2.2.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/zipp-2.2.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/zipp.py",
+    "lib/python3.7/site-packages/__pycache__/zipp.cpython-37.pyc"
+  ],
+  "fn": "zipp-2.2.0-py_0.conda",
+  "legacy_bz2_md5": "b90e2234ae2cd5044fb5add9ff340327",
+  "legacy_bz2_size": 12289,
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/zipp-2.2.0-py_0",
+    "type": 1
+  },
+  "md5": "6b724d7fcd6e08993b4c98e0ac2260b9",
+  "name": "zipp",
+  "noarch": "python",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/zipp-2.2.0-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/zipp-2.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/zipp-2.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+        "sha256_in_prefix": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+        "size_in_bytes": 1050
+      },
+      {
+        "_path": "site-packages/zipp-2.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "312730e7d4d81064be54817135886dfb7b2a58152a40b632e18c3b82401d76cd",
+        "sha256_in_prefix": "312730e7d4d81064be54817135886dfb7b2a58152a40b632e18c3b82401d76cd",
+        "size_in_bytes": 1850
+      },
+      {
+        "_path": "site-packages/zipp-2.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "5759187520994159124725c38281cd9297e032a73eede6a0a052d179cbf96ad0",
+        "sha256_in_prefix": "5759187520994159124725c38281cd9297e032a73eede6a0a052d179cbf96ad0",
+        "size_in_bytes": 560
+      },
+      {
+        "_path": "site-packages/zipp-2.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4e5f318d6f17e05df928b9cdd5ee9e9d94f818772fcc69aac7fdfde3533433a4",
+        "sha256_in_prefix": "4e5f318d6f17e05df928b9cdd5ee9e9d94f818772fcc69aac7fdfde3533433a4",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/zipp-2.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8806dda121df686a817d56f65ee47d26a4901c2a0eb0eb46eb2f42fcb4a9a85c",
+        "sha256_in_prefix": "8806dda121df686a817d56f65ee47d26a4901c2a0eb0eb46eb2f42fcb4a9a85c",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/zipp.py",
+        "path_type": "hardlink",
+        "sha256": "89fc7139ecca2ff79032a2585a16c19c4ecf20aee8be5bf4d983c4e01bb97836",
+        "sha256_in_prefix": "89fc7139ecca2ff79032a2585a16c19c4ecf20aee8be5bf4d983c4e01bb97836",
+        "size_in_bytes": 6339
+      },
+      {
+        "_path": "lib/python3.7/site-packages/__pycache__/zipp.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "zipp==2.2.0=py_0",
+  "sha256": "bbd13a4fd165f306e9ac1b439118bcc15609e48d17e3d21aafa3fc0a6e2479cb",
+  "size": 12674,
+  "subdir": "noarch",
+  "timestamp": 1581353061414,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/zipp-2.2.0-py_0.conda",
+  "version": "2.2.0"
+}

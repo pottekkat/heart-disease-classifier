@@ -1,0 +1,62 @@
+{
+  "build": "166",
+  "build_number": 166,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "constrains": [
+    "mkl >=2020.0"
+  ],
+  "depends": [],
+  "extracted_package_dir": "/home/navendu/miniconda3/pkgs/intel-openmp-2020.0-166",
+  "features": "",
+  "files": [
+    "lib/libiomp5.so",
+    "lib/libiomp5_db.so",
+    "lib/libiompstubs5.so"
+  ],
+  "fn": "intel-openmp-2020.0-166.conda",
+  "legacy_bz2_md5": "dcdad8d3be0b7bc528e198450524a368",
+  "legacy_bz2_size": 938116,
+  "license": "proprietary - Intel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "/home/navendu/miniconda3/pkgs/intel-openmp-2020.0-166",
+    "type": 1
+  },
+  "md5": "4b483d8df9ffff30ae1c816a56adfd24",
+  "name": "intel-openmp",
+  "package_tarball_full_path": "/home/navendu/miniconda3/pkgs/intel-openmp-2020.0-166.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libiomp5.so",
+        "path_type": "hardlink",
+        "sha256": "a58cc2c1d6f9b871c2a036d319111509423a409edb59e80c0a96b1bd32287241",
+        "sha256_in_prefix": "a58cc2c1d6f9b871c2a036d319111509423a409edb59e80c0a96b1bd32287241",
+        "size_in_bytes": 2239474
+      },
+      {
+        "_path": "lib/libiomp5_db.so",
+        "path_type": "hardlink",
+        "sha256": "90da97183c29cd6cf3078c58069efcde6eb4f2a940f07849d7d896c72b30df38",
+        "sha256_in_prefix": "90da97183c29cd6cf3078c58069efcde6eb4f2a940f07849d7d896c72b30df38",
+        "size_in_bytes": 694737
+      },
+      {
+        "_path": "lib/libiompstubs5.so",
+        "path_type": "hardlink",
+        "sha256": "41d60ca93e36fd80b31e33a85028c29b7484a8af289535edf3f178fda1f8b5aa",
+        "sha256_in_prefix": "41d60ca93e36fd80b31e33a85028c29b7484a8af289535edf3f178fda1f8b5aa",
+        "size_in_bytes": 187094
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "intel-openmp==2020.0=166",
+  "sha256": "43a7099262a8fcd872446053fe74e4e246431374311a79600ff966014826feaa",
+  "size": 774335,
+  "subdir": "linux-64",
+  "timestamp": 1580943972633,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/intel-openmp-2020.0-166.conda",
+  "version": "2020.0"
+}
