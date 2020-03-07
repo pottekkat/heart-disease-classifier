@@ -50,3 +50,16 @@ The following tools are going to be used for data analysis, manipulation and mod
 * numpy
 * scikit-learn
 
+## 5. Results
+
+### Feature importance
+
+![Feature Importance](https://github.com/navendu-pottekkat/heart-disease-classifier/blob/master/plots/feature_importance.png)
+
+### Correlation matrix
+
+![Correlation Matrix](https://github.com/navendu-pottekkat/heart-disease-classifier/blob/master/plots/correlation_matrix.png)
+
+### ROC curve
+
+![ROC Curve](https://github.com/navendu-pottekkat/heart-disease-classifier/blob/master/plots/roc-curve.png)
